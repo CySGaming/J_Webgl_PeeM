@@ -4,4 +4,15 @@
 
 /*.gz
   Content-Encoding: gzip
+
+/*.js.gz
   Content-Type: application/javascript
+
+/*.wasm.gz
+  Content-Type: application/wasm
+
+/*.data.gz
+  Content-Type: application/octet-stream
+
+/*.symbols.json.gz
+  Content-Type: application/json
